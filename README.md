@@ -1,16 +1,29 @@
-# projeto_listacompras
+# Lista de Compras 🛒
 
-A new Flutter project.
+Um aplicativo Flutter simples e prático para gerenciar sua lista de compras!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Adicionar produtos à lista
+- Remover produtos da lista
+- Visual moderno e responsivo
+- Interface intuitiva
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Demonstração
+
+![screenshot](C:\Users\Bruno\Desktop\projeto_listacompras\1.PNG)
+![screenshot](C:\Users\Bruno\Desktop\projeto_listacompras\2.PNG)
+ 
+
+---
+
+## ⚙️ Tecnologias utilizadas
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev)
+
+---
